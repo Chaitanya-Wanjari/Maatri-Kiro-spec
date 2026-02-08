@@ -1,4 +1,4 @@
-## Overview
+## Maatri
 
 Maatri is a bilingual AI-powered maternal healthcare assistant that provides verified pregnancy guidance to expecting mothers in India. The system implements a dual-pipeline Retrieval-Augmented Generation (RAG) architecture on AWS, maintaining separate Hindi and English processing flows to preserve linguistic accuracy and cultural context.
 
